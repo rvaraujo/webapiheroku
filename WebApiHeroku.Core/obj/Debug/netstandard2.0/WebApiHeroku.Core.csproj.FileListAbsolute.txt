@@ -1,0 +1,8 @@
+/Volumes/Dados/dev/WebApiHeroku.Core/bin/Debug/netstandard2.0/WebApiHeroku.Core.deps.json
+/Volumes/Dados/dev/WebApiHeroku.Core/bin/Debug/netstandard2.0/WebApiHeroku.Core.dll
+/Volumes/Dados/dev/WebApiHeroku.Core/bin/Debug/netstandard2.0/WebApiHeroku.Core.pdb
+/Volumes/Dados/dev/WebApiHeroku.Core/obj/Debug/netstandard2.0/WebApiHeroku.Core.csprojAssemblyReference.cache
+/Volumes/Dados/dev/WebApiHeroku.Core/obj/Debug/netstandard2.0/WebApiHeroku.Core.AssemblyInfoInputs.cache
+/Volumes/Dados/dev/WebApiHeroku.Core/obj/Debug/netstandard2.0/WebApiHeroku.Core.AssemblyInfo.cs
+/Volumes/Dados/dev/WebApiHeroku.Core/obj/Debug/netstandard2.0/WebApiHeroku.Core.dll
+/Volumes/Dados/dev/WebApiHeroku.Core/obj/Debug/netstandard2.0/WebApiHeroku.Core.pdb
