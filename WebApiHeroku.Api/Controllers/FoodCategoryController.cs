@@ -19,7 +19,8 @@ namespace WebApiHeroku.Api.Controllers
                new Category("Comida Asiática"),
                new Category("Comida Italiana"),
                new Category("Comida Alemã"),
-               new Category("Lanches Rápidos")
+               new Category("Lanches Rápidos"),
+               new Category("Comida Vegana"),
            };
            
            return categories;
